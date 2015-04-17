@@ -1,0 +1,15 @@
+{
+"version": "1.0",
+  "name": "Travel Asia",
+  "description": "Travel Asia will show you the direction of your national and international tours througout the Asian countries.",
+  "launch_path": "/Home.html",
+  "icons": {
+    "128": "/img/logo.png"
+  },
+  "developer": {
+    "name": "Shahin Alam",
+    "url": "www.sopnopriyo.tk"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true }
+}

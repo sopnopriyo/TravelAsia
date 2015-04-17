@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelAsia </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name">TravelAsia sopnopriyo</string>
+    <string name="WelCOme">Welcome</string>
+    <string name="toTravelAsia">to TravelAsia</string>
+
+</resources>
